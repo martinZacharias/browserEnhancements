@@ -15,6 +15,7 @@
     if(allowedTypes.includes(filetype)){
       var video = document.getElementsByTagName('video')[0];//test
       video.loop = true;
+        alert(1);
     }
 
 })();
