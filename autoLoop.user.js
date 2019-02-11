@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto loop video
 // @namespace    https://github.com/martinza99/browserEnhancements/
-// @version      0.1
+// @version      0.1.1
 // @description  enables loop on videos
 // @author       martin
 // @match        file:///*
