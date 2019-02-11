@@ -13,7 +13,7 @@
     var allowedTypes = ['mp4','webm'];
     var filetype = document.location.href.substring(document.location.href.lastIndexOf('.')+1); // gets everything in the URL after the last dot '.'
     if(allowedTypes.includes(filetype)){
-      var video = document.getElementsByTagName('video')[0];
+      var video = document.getElementsByTagName('video')[0];//test
       video.loop = true;
     }
 
